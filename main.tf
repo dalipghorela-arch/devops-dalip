@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "rgs" {
     location = "central india"  }
 
     resource "azurerm_resource_group" "rgs" {
-    name = "garry""
+    name = "garry"
     location = "central india"  }
     
     
