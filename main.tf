@@ -9,3 +9,13 @@ resource "azurerm_resource_group" "rgs" {
     resource "azurerm_resource_group" "rgs" {
     name = "bhagwant"
     location = "central india"  }
+
+     resource "azurerm_resource_group" "rgs" {
+    name = "toni"
+    location = "central india"  }
+
+     resource "azurerm_resource_group" "rgs" {
+    name = "moni"
+    location = "central india"  }
+
+
